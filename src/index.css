@@ -3,12 +3,13 @@
 @import "tailwindcss";
 
 *{
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
 }
 h1{
   font-family: "Arimo", serif;
+}
+body{
+  background-color: rgb(202, 202, 202);
 }
 #root{
   width: 100%;
